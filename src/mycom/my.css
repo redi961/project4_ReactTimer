@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.App {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, darkblue, aqua);
+  color : rgb(224, 226, 238);
+}
+
+.clockText {
+  color : rgb(217, 224, 236);
+}
